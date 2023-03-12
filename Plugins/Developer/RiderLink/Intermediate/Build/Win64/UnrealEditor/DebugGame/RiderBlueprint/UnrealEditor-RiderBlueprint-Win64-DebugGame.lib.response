@@ -1,0 +1,11 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-RiderBlueprint-Win64-DebugGame.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"G:\Unreal Engine 5.1 Projects\MultiplayerSurvival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderBlueprint\Module.RiderBlueprint.cpp.obj"
+"G:\Unreal Engine 5.1 Projects\MultiplayerSurvival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderBlueprint\Default.rc2.res"
+/OUT:"G:\Unreal Engine 5.1 Projects\MultiplayerSurvival\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UnrealEditor\DebugGame\RiderBlueprint\UnrealEditor-RiderBlueprint-Win64-DebugGame.lib"
